@@ -11,3 +11,11 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+
+.man_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    min-height: 150px;
+    gap: 30px;
+}
