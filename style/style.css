@@ -11,3 +11,21 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+
+.mrb{
+    padding-top: 100px;
+}
+
+.mrb__item{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+}
+
+.mrb__item1{
+    text-align: center;
+}
+
+.mrb__item1 img{
+    width: 320px;
+}
