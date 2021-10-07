@@ -11,3 +11,26 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+
+
+.ali__sort {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ali__title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    line-height: 30px;
+    color: black;
+}
+
+.ali__catalog {
+    display: flex;
+}
+
+.ali__img {
+    width: 250px;
+}
